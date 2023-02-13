@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background: url(../img/bg.png);
+    font-family: Arial;
+    line-height: 1.5;
+    font-size: 24px;
+}
+
+.title {
+    font-size: 36px;
+    color: #8324dc;
+}
+
+.photo {
+    width: 500px;
+    height: 700px;
+    border-radius: 50%;
+}
+.frame {
+    width: 200px;
+    margin: 30px auto;
+    padding: 20px;
+
+    background-color: #fff;
+    box-shadow: 0 5px 10px #ccc;
+}
+p {
+    color: #c68523;
+}
+#subtitle {
+    font-size: 30px;
+    color: #8324dc;
+}
+.list {
+padding-left: 0;
+list-style-position: inside;
+color: #c68523;
+}
